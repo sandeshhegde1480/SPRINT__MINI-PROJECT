@@ -16,3 +16,5 @@ The sixth code cell is for the main program.
 The seventh code cell is for the variable storing the input datapath.
 Run all the 7 code blocks (7th is optional).
 On running the 6th code cell, it asks for the input path. Then provide the path mentioned in the seventh cell or the path where the input pdf is stored. Once the path is given, The appropriate messages appear as the output the filenme will be displayed. 
+
+Recommended: Download the 'Dummy_Questionnaire.pdf' from the given drive folder to your system and upload the same file to the temporary drive storage once you mount the drive as an execution part (run code cell 1 ). Then copy the file path and input the path as an input path to the main program.
